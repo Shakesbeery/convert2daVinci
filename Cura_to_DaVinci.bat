@@ -1,1 +1,0 @@
-python c:\convert2daVinci\daVinciGcodePrep.py %1  curaMode=True
